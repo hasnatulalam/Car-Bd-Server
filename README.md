@@ -1,10 +1,10 @@
-# Doggo Backend : Best Foods For Your Beloved Dog
+# Car Bd Backend : Best Car Sell website
 
-## Live Link: Visit our site  [Doggo](https://doggo-a0392.web.app/)
+## Live Link: Visit our site  [Car Bd]()
 
 
 ### About Project 
-   - This is a niche site for influencing people to buy various kinda foods for their dogs. User's can signup/login here and buy neccessary goods from the site. I've implemented admin panel too. Not but the list, this task was given by Programming hero as the final assignment.
+   - This is a niche site for influencing people to buy car for their familly User's can signup/login here and buy neccessary goods from the site. I've implemented admin panel too. Not but the list, this task was given by Programming hero as the final assignment.
 
 
 #### Technolgy I've Used: 
